@@ -1,6 +1,6 @@
-# panther-api
+# moonwars-api
 
-Set of endpoints utilities for PantherSwap, based on Serverless.
+Set of endpoints utilities for MoonWras Finance, based on Serverless.
 
 ## Dependencies
 
